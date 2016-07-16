@@ -1,0 +1,2 @@
+---
+hieratest::notice: "Hello, you've reached the %{::environment} environment. This string was brought to you by hiera"

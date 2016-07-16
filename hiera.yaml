@@ -1,0 +1,13 @@
+---
+:backends:
+  - yaml
+  - json
+:yaml:
+  :datadir: "environments/%{environment}/hieradata/yaml"
+:json:
+  :datadir: "environments/%{environment}/hieradata/json"
+:hierarchy:
+  - "nodes/%{::trusted.certname}"
+  - "environment/%{server_facts.environment}"
+  - "virtual/%{::virtual}"
+  - common
