@@ -1,0 +1,911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mon",
+				"mongodb"
+			],
+			[
+				"envi",
+				"environment"
+			],
+			[
+				"envir",
+				"environments"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"isAuthe",
+				"isAuthenticated()	request.js"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"func",
+				"functions(object)	lodash.js"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"usermo",
+				"usermodel	users.js"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"contact",
+				"contact	main.js"
+			],
+			[
+				"maw",
+				"maw	max-width"
+			],
+			[
+				"d",
+				"d:b	display:block"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"conta",
+				"contactdetails"
+			],
+			[
+				"nav",
+				"navitem"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"con",
+				"container_n"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inc",
+				"inline-block"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"ruy",
+				"Set Syntax: Ruby"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"puppet",
+				"Set Syntax: Puppet"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jde",
+				"Set Syntax: Jade"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jac",
+				"Javascript Beautify"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"build",
+				"Snippet: background-clip:padding-box"
+			],
+			[
+				"b",
+				"Build: Build"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"syntax manage",
+				"Syntax Manager: Reload Settings"
+			],
+			[
+				"syn",
+				"Syntax Manager: Reload Settings"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/simonstead/apps"
+	],
+	"file_history":
+	[
+		"/Users/simonstead/apps/angular/app/package.json",
+		"/Users/simonstead/apps/angular/app/views/layout.jade",
+		"/Users/simonstead/apps/angular/git command",
+		"/Users/simonstead/apps/angular/install/node_modules/pug/README.md",
+		"/Users/simonstead/apps/angular/app/environments/dev/manifests/default.pp",
+		"/Users/simonstead/apps/angular/app/bin/www",
+		"/Users/simonstead/apps/angular/app/Vagrantfile",
+		"/Users/simonstead/apps/angular/install/bin/www",
+		"/Users/simonstead/apps/angular/install/environments/dev/manifests/default.pp",
+		"/Users/simonstead/apps/angular/install/Vagrantfile",
+		"/Users/simonstead/apps/7test/Vagrantfile",
+		"/Users/simonstead/apps/7test/hiera.yaml",
+		"/Users/simonstead/apps/7test/environments/dev/manifests/default.pp",
+		"/Users/simonstead/apps/vagranttest/environments/dev/hieradata/yaml/common.yaml",
+		"/Users/simonstead/apps/angular/install/package.json",
+		"/Users/simonstead/apps/palette.sass",
+		"/Users/simonstead/apps/vagranttest/environments/dev/manifests/default.pp",
+		"/Users/simonstead/apps/vagranttest/hiera.yaml",
+		"/Users/simonstead/apps/vagranttest/Vagrantfile",
+		"/Users/simonstead/apps/vagranttest/hieradata/yaml/dev/common.yaml",
+		"/Users/simonstead/apps/otto/builtin/app/ruby/ruby_version.go",
+		"/Users/simonstead/apps/otto/README.md",
+		"/Users/simonstead/Documents/*STEPS TO VAGRANT*",
+		"/Users/simonstead/apps/vagranttest/hieradata/json/dev/common.json",
+		"/Users/simonstead/apps/vagranttest/environments/dev/manifests/puppet.sh",
+		"/Users/simonstead/apps/vagranttest/environments/dev/environment.conf",
+		"/Users/simonstead/apps/otto-getting-started/app.rb",
+		"/Users/simonstead/apps/otto-getting-started/Gemfile",
+		"/Users/simonstead/apps/otto/builtin/app/ruby/data/common/dev/layer-base/Vagrantfile.tpl",
+		"/Users/simonstead/apps/preston copy 2/public/stylesheets/css/bootstrap/less/responsive-utilities.less",
+		"/Users/simonstead/apps/otto/website/source/docs/appfile/customization.html.md",
+		"/Users/simonstead/apps/vagranttest/hello.txt",
+		"/Users/simonstead/apps/vagranttest/environments/dev/puppet.sh",
+		"/Users/simonstead/apps/notvb/puppet/manifests/default.pp",
+		"/Users/simonstead/apps/notvb/Vagrantfile",
+		"/Users/simonstead/apps/preston copy 2/node_modules/mongo-express/public/stylesheets/theme/rubyblue.css",
+		"/Users/simonstead/apps/preston copy 2/views/register.jade",
+		"/Users/simonstead/apps/vagranttest/puppet/manifests/default.pp",
+		"/Users/simonstead/apps/vagranttest/manifests/default.pp",
+		"/Users/simonstead/preston/public/stylesheets/sass/_sessions.sass",
+		"/Users/simonstead/preston/public/stylesheets/sass/style.sass",
+		"/Users/simonstead/preston/public/stylesheets/sass/_about.sass",
+		"/Users/simonstead/Downloads/users-3.json",
+		"/Users/simonstead/Downloads/users-2.json",
+		"/Users/simonstead/preston/views/articles/oldlucy.jade",
+		"/Users/simonstead/preston/public/stylesheets/sass/_header.sass",
+		"/Users/simonstead/preston/views/layout.jade",
+		"/Users/simonstead/preston/views/index.jade",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/cli-color/node_modules/memoizee/lib/resolve-normalize.js",
+		"/Users/simonstead/preston/node_modules/jade/node_modules/clean-css/lib/properties/vendor-prefixes.js",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/cli-color/node_modules/es5-ext/error/valid-error.js",
+		"/Users/simonstead/preston/node_modules/express/lib/view.js",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/babel-runtime/node_modules/core-js/modules/es6.reflect.is-extensible.js",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/ws/node_modules/bufferutil/build/Release/.deps/Release/bufferutil.node.d",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/cli-color/test/__playground/throbber.formatted.js",
+		"/Users/simonstead/preston/node_modules/istanbul/node_modules/escodegen/node_modules/estraverse/.editorconfig",
+		"/Users/simonstead/preston/public/plugins/flipping_gallery-master/jquery.flipping_gallery.js",
+		"/Users/simonstead/preston/.gitignore",
+		"/Users/simonstead/preston/preston.sublime-project",
+		"/Users/simonstead/Downloads/Ableton Live Suite 9.6/OSX/Patch/x64.command",
+		"/Users/simonstead/preston/views/articles/1.jade",
+		"/Users/simonstead/preston/views/articles/lucy.jade",
+		"/Users/simonstead/preston/passport/login.js",
+		"/Users/simonstead/preston/views/articles/article.jade",
+		"/Users/simonstead/preston/public/stylesheets/sass/_body.sass",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/isNative.js",
+		"/Users/simonstead/preston/views/partials/gallery.jade",
+		"/Users/simonstead/preston/views/body/gallery.jade",
+		"/Users/simonstead/preston/views/body/contact.jade",
+		"/Users/simonstead/preston/node_modules/chai/CODE_OF_CONDUCT.md",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/babel-runtime/helpers/has-own.js",
+		"/Users/simonstead/preston/views/home.jade",
+		"/Users/simonstead/preston/node_modules/jshint/node_modules/lodash/collection/inject.js",
+		"/Users/simonstead/preston/node_modules/express/lib/router/layer.js",
+		"/Users/simonstead/preston/node_modules/mongo-express/lib/views/layout.html",
+		"/Users/simonstead/preston/public/stylesheets/css/style.css",
+		"/Users/simonstead/preston/node_modules/jshint/src/style.js",
+		"/Users/simonstead/preston/node_modules/jade/node_modules/clean-css/lib/utils/source-tracker.js",
+		"/Users/simonstead/preston/public/plugins/expandable-image-gallery/partials/_layout.scss",
+		"/Users/simonstead/preston/public/stylesheets/sass/_nav.sass",
+		"/Users/simonstead/preston/node_modules/jshint/node_modules/lodash/collection/sortByAll.js",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/sampleSize.js",
+		"/Users/simonstead/preston/node_modules/istanbul/node_modules/escodegen/node_modules/source-map/build/assert-shim.js",
+		"/Users/simonstead/preston/node_modules/jshint/node_modules/lodash/internal/reEscape.js",
+		"/Users/simonstead/preston/node_modules/async/setImmediate.js",
+		"/Users/simonstead/preston/passport/signup.js",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/lastIndexOf.js",
+		"/Users/simonstead/preston/models/user.js",
+		"/Users/simonstead/preston/node_modules/istanbul/node_modules/mkdirp/test/umask_sync.js",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitUserDrag.js",
+		"/Users/simonstead/preston/test/test.js",
+		"/Users/simonstead/preston/node_modules/nodeunit/test/test-runfiles.js",
+		"/Users/simonstead/preston/routes/gallery.js",
+		"/Users/simonstead/preston/views/shared/nav.jade",
+		"/Users/simonstead/preston/node_modules/async/someSeries.js",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/snyk/node_modules/snyk-resolve-deps/node_modules/minimist/test/stop_early.js",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/cli-color/node_modules/d/auto-bind.js",
+		"/Users/simonstead/preston/views/body/home.jade",
+		"/Users/simonstead/preston/config.codekit",
+		"/Users/simonstead/preston/node_modules/istanbul/lib/util/input-error.js",
+		"/Users/simonstead/preston/public/stylesheets/sass/_gallery.sass",
+		"/Users/simonstead/preston/node_modules/async/eachOfLimit.js",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/jsdom/node_modules/cssstyle/lib/properties/content.js",
+		"/Users/simonstead/preston/node_modules/zombie/node_modules/bluebird/js/release/context.js",
+		"/Users/simonstead/preston/routes/contact.js",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/snakeCase.js",
+		"/Users/simonstead/preston/views/body/freeGallery",
+		"/Users/simonstead/preston/bashcoverage",
+		"/Users/simonstead/preston/node_modules/jshint/node_modules/lodash/internal/baseForOwn.js",
+		"/Users/simonstead/preston/node_modules/istanbul/node_modules/handlebars/node_modules/optimist/example/boolean_double.js",
+		"/Users/simonstead/preston/node_modules/chai/lib/chai/utils/getActual.js",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/_assignInDefaults.js",
+		"/Users/simonstead/preston/node_modules/async/node_modules/lodash/fp/nAry.js",
+		"/Users/simonstead/preston/npm-debug.log",
+		"/Users/simonstead/preston/node_modules/mongo-express/node_modules/snyk/node_modules/inquirer/node_modules/through/LICENSE.APACHE2",
+		"/Users/simonstead/preston/models/article.js",
+		"/Users/simonstead/preston/public/javascripts/script.js",
+		"/Users/simonstead/preston/routes/index.js",
+		"/Users/simonstead/take 5 sets of dice",
+		"/Users/simonstead/preston/main.js",
+		"/Users/simonstead/preston/passport/init.js",
+		"/Users/simonstead/preston/package.json",
+		"/Users/simonstead/preston/nu_test/allTests.js",
+		"/Users/simonstead/preston/test/auth/auth.js",
+		"/Users/simonstead/preston/test/db/db.js",
+		"/Users/simonstead/preston/db/db_mocha.js",
+		"/Users/simonstead/preston/test/userModelTest.js",
+		"/Users/simonstead/preston/routes/users.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/simonstead/apps",
+			"/Users/simonstead/apps/otto",
+			"/",
+			"/Users/simonstead/preston/",
+			"/Users/simonstead/preston/test",
+			"<open folders>",
+			"./",
+			"",
+			"/Users/simonstead/install",
+			"/Users/simonstead/htyw2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heira",
+			"ruby_version",
+			"Installing Ruby",
+			"Updating ruby versions",
+			"for dir in",
+			"cp",
+			"c",
+			"cp -r",
+			"cp -r *.md *.txt",
+			"cp -r *.md *.txt /usr/local/share/doc/chruby-0.3.9/",
+			"\\n",
+			":",
+			"\"\n",
+			"curl -sSL https://get.rvm.io | bash -s stable --quiet-curl --ruby=1.9.3",
+			"sync",
+			"			img(src=\"/images/headerimage5.jpg\")\n",
+			"\")\n",
+			";",
+			".jpg",
+			"venezuela",
+			"fetish",
+			"ApplySettings",
+			"VmPortForwardingRuleName",
+			"getValue",
+			"SetupRuleTable",
+			"makeApplyEnable",
+			"remoteAcc",
+			"shop",
+			"li.buyme",
+			"option",
+			";",
+			"router.get('/conta",
+			"contact",
+			".content",
+			";",
+			"'\n",
+			"li#navArticles\n			a(href='/article/1') Articles",
+			";",
+			"menui",
+			"li ",
+			"\\n",
+			" li",
+			"  ",
+			",",
+			"<br>",
+			"md-24",
+			";",
+			"15em",
+			";",
+			"display: flex;\n	flex-direction: row;\n	height: 15em;\n	align-items: center;\n	justify-content: space-around;\n	margin: 3em 2em;\n	padding: 1em;",
+			"writeHead",
+			"200",
+			";",
+			"script",
+			"u",
+			"mongo_express_config",
+			"li#navContact \n			a(href='/contact') Contact",
+			"(\\[)(\".*\")(\\])",
+			"')\n",
+			"', ",
+			"script",
+			"\\t*//.*\\n",
+			"\\('",
+			"\\!=partial",
+			"router.get('/', function(req, res, next) {\n  res.render('index', { title: 'Codename Preston' });\n});\n",
+			"[^t](.fetish)",
+			",",
+			"p (\\*)*",
+			"<br>*",
+			"<br><br>(\\*)*",
+			"\\*",
+			"<br><br>",
+			"')\n",
+			"partial",
+			"\\*",
+			"<br>",
+			"access",
+			"cookie",
+			",",
+			"cookie",
+			"access",
+			"pass",
+			"worshiper",
+			"\n	",
+			"\\s\\s",
+			"\\s\\s\\s\\s",
+			"users",
+			"use",
+			"require",
+			"app.js",
+			"(.)\\n",
+			".\\n",
+			"",
+			"",
+			"G[a-z]{0,12} magazine",
+			"G[a-z] magazine",
+			"G*****magic",
+			"G*maga",
+			"\\^G*maga",
+			"^G*maga",
+			"G*maga",
+			"G",
+			"logo",
+			"left",
+			"comediant",
+			"nav",
+			"a ",
+			"display: none",
+			"display",
+			"plain",
+			"html",
+			"highlight",
+			"notti",
+			"35vh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":",
+			"\\n",
+			"",
+			".tribute",
+			"li",
+			"",
+			"div(style='') ",
+			"",
+			"li",
+			"",
+			"\\n li \\t ",
+			"\\n",
+			"<br>\\n",
+			"",
+			"center",
+			"",
+			"\\1\\2,\\2,\\2,\\2\\3",
+			"",
+			"include ",
+			"\\n\\toption\\1",
+			"\\toption\\1",
+			"\\n\\.fetish ",
+			"li.buyme ",
+			"li.buyme",
+			"\\np ",
+			"\\np",
+			"\\np ",
+			"\\tli.rule ",
+			"\\tli.rule",
+			"\\n",
+			",\\n",
+			"\\t",
+			"main.js",
+			"\\1",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "apps.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"otto/builtin/app/ruby/ruby_version.go"
+			],
+			[
+				"index",
+				"views/index.jade"
+			],
+			[
+				"gall",
+				"views/partials/gallery.jade"
+			],
+			[
+				"conta",
+				"routes/contact.js"
+			],
+			[
+				"log",
+				"views/login.jade"
+			],
+			[
+				"",
+				"routes/index.js"
+			],
+			[
+				"nav",
+				"views/shared/nav.jade"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"ind",
+				"routes/index.js"
+			],
+			[
+				"home",
+				"views/home.jade"
+			],
+			[
+				"inde",
+				"routes/index.js"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"style",
+				"public/stylesheets/css/style.css"
+			],
+			[
+				"styl",
+				"public/stylesheets/sass/style.sass"
+			],
+			[
+				"sty",
+				"public/stylesheets/sass/style.sass"
+			],
+			[
+				"sess",
+				"views/body/sessions.jade"
+			],
+			[
+				"regis",
+				"views/register.jade"
+			],
+			[
+				"login",
+				"passport/login.js"
+			],
+			[
+				"sessi",
+				"views/body/sessions.jade"
+			],
+			[
+				"about",
+				"views/partials/about.jade"
+			],
+			[
+				"_nav",
+				"public/stylesheets/sass/_nav.sass"
+			],
+			[
+				"cont",
+				"views/body/contact.jade"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"_n",
+				"public/stylesheets/sass/_nav.sass"
+			],
+			[
+				"in",
+				"node_modules/async/node_modules/lodash/isNative.js"
+			],
+			[
+				"old",
+				"views/articles/oldlucy.jade"
+			],
+			[
+				"scri",
+				"public/javascripts/script.js"
+			],
+			[
+				"galler",
+				"routes/gallery.js"
+			],
+			[
+				"gal",
+				"routes/gallery.js"
+			],
+			[
+				"index.js",
+				"routes/index.js"
+			],
+			[
+				"script",
+				"public/javascripts/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

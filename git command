@@ -1,0 +1,1 @@
+ curl -u "simonstead:4023a91f8b5cf3dd77329783d870a84c1a338c66" https://api.github.com/user/repos -d '{"name":"'mean_test'"}'
