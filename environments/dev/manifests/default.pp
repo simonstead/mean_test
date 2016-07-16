@@ -40,11 +40,19 @@ require => Exec["apt-get update"],
 
 }
 
+exec { "npm update":
+
+path => "/usr/bin",
+
+require => Package["npm"],
+
+}
+
 package { 'node':
 
 ensure => present,
 
-require => Package["npm"],
+require => Exec["npm update"],
 
 }
 
