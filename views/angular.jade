@@ -1,5 +1,9 @@
 extends layout
 
 block content
-  .demoApp(ng-app="")
+  .demoApp.w3-container.w3-teal(ng-app="")
     h1 2^5 = {{2*2*2*2*2}}
+    .w3-button.w3-dropdown-hover Click Me
+        .w3-dropdown-content.w3-white.w3-card-4
+            .dropdownItem(ng-repeat="x in [1,2,3,4,5]")
+                a(href="javascript:void(0)") {{x + ": Something to say"}}
