@@ -11,3 +11,23 @@ canvas {
 	height: 100%;
 	width: 100%;
 }
+
+.w3-opennav {
+  position: fixed;
+  font-size: 1.5em;
+  padding: 1rem;
+}
+
+h1 {
+  margin-left: 1em;
+}
+
+@media (min-width: 1200px) {
+  .demoApp {
+    margin-left: 200px;
+  }
+
+  h1 {
+    margin: 0;
+  }
+}
